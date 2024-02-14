@@ -26,8 +26,5 @@
 
 <img src="https://raw.githubusercontent.com/shru2811/shru2811/output/snake.svg" alt="Snake animation" />
 
-###
-###
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shru2811&" alt="shru2811" /></p>
 
