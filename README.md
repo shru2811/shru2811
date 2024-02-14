@@ -24,7 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shru2811&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/shru2811/shru2811/output/snake.svg" alt="Snake animation" />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shru2811&" alt="shru2811" /></p>
 
+<img src="https://raw.githubusercontent.com/shru2811/shru2811/output/snake.svg" alt="Snake animation" />
