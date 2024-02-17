@@ -1,6 +1,21 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript, Scala, NodeJS, ExpressJS, MongoDB<br><br>👨‍💻 All of my projects are available at https://personal-portfolio-mu-jet.vercel.app/<br><br>📫 How to reach me sshruti.2811@gmail.com
+Hello there! 👋 I'm Shruti Srivastava, currently in my second year of pursuing a Bachelor's in Technology in Computer Science and Engineering, with a specialization in Big Data. I have a keen interest in understanding the intricate workings of technology and exploring its vast possibilities.
+My Personal Portfolio's link:- https://personal-portfolio-mu-jet.vercel.app/
 
+My Skills
+👩‍💻Programming Languages: Python, C, Java, JavaScript, Scala
+⚙️Web Technologies: HTML, CSS, Node.js, Express.js
+📔Databases: SQL, MongoDB
+🧱Data Structures and Algorithms: Currently honing my skills in DSA using Java
+🏫Technological Exploration: Deep diving into web and big data technologies, constantly seeking to expand my knowledge horizon
+
+What Drives Me
+I have an insatiable curiosity and a relentless drive to uncover the logic behind how things work. This curiosity fuels my passion for software engineering and motivates me to delve deeper into the realm of technology.
+
+My Aspirations
+I aspire to become a proficient software engineer, leveraging my skills and knowledge to create innovative solutions and contribute meaningfully to the ever-evolving tech landscape.
+
+Feel free to connect with me! Let's collaborate, learn, and create together. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shru2003/) 
