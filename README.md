@@ -8,6 +8,7 @@ My Personal Portfolio's link:- https://personal-portfolio-mu-jet.vercel.app/
 📔Databases: SQL, MongoDB
 🧱Data Structures and Algorithms: Currently honing my skills in DSA using Java
 🏫Technological Exploration: Deep diving into web and big data technologies, constantly seeking to expand my knowledge horizon
+👩‍💻DevOps Technologies: Version Control ,Linux & Terminal Commands,Computer Networking, YAML, Docker & Kubernetes, etc
 
 # What Drives Me
 I have an insatiable curiosity and a relentless drive to uncover the logic behind how things work. This curiosity fuels my passion for software engineering and motivates me to delve deeper into the realm of technology.
