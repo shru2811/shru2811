@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! 👋 I'm Shruti Srivastava, currently in my second year of pursuing a Bachelor's in Technology in Computer Science and Engineering, with a specialization in Big Data. I have a keen interest in understanding the intricate workings of technology and exploring its vast possibilities.
+Hello there! 👋 I'm Shruti Srivastava, currently in my third year of pursuing a Bachelor's in Technology in Computer Science and Engineering, with a specialization in Big Data. I have a keen interest in understanding the intricate workings of technology and exploring its vast possibilities.
 My Personal Portfolio's link:- [https://react-portfolio-shru2811s-projects.vercel.app/](https://react-portfolio-shru2811s-projects.vercel.app/)
 
 # My Skills
@@ -9,6 +9,9 @@ My Personal Portfolio's link:- [https://react-portfolio-shru2811s-projects.verce
 🧱Data Structures and Algorithms: Currently honing my skills in DSA using Java
 🏫Technological Exploration: Deep diving into web and big data technologies, constantly seeking to expand my knowledge horizon
 👩‍💻DevOps Technologies: Version Control ,Linux & Terminal Commands,Computer Networking, YAML, Docker & Kubernetes, etc
+
+# My Projects & Experience
+I have worked on various projects like real time chat application, Flashcard Application, slack message app bot etc. Recently worked with a startup in creating their portfolio website, which is now live on internet worldwide. checkout the repository where you get the link to the website as well.
 
 # What Drives Me
 I have an insatiable curiosity and a relentless drive to uncover the logic behind how things work. This curiosity fuels my passion for software engineering and motivates me to delve deeper into the realm of technology.
