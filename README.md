@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello there! 👋 I'm Shruti Srivastava, currently in my final year of Bachelor's in Technology in Computer Science and Engineering, with a specialization in Big Data. I have a keen interest in understanding the intricate workings of technology and exploring its vast possibilities.
-My Personal Portfolio's link:- [https://react-portfolio-shru2811s-projects.vercel.app/](https://react-portfolio-shru2811s-projects.vercel.app/)
+My Personal Portfolio's link:- [click here](https://tinyurl.com/shrutisri)
 
 # My Skills
 👩‍💻Programming Languages: Python, C, Java, JavaScript, Scala
